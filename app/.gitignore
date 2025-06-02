@@ -1,0 +1,27 @@
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# IDE/editor configs
+.vscode/
+.idea/
+
+# Data and artifacts
+*.csv
+*.log
+*.db
+checkpoints/
+data/
+artifacts/
+jars/
+
+# Streamlit & Python cache
+.streamlit/
+*.pkl
+
+# macOS
+.DS_Store
+
+# dotenv
+.env
